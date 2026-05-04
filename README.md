@@ -1,5 +1,7 @@
 # Ziying Li — Personal Portfolio
 
+**Live site:** [personal-web-theta-virid.vercel.app](https://personal-web-theta-virid.vercel.app)
+
 A minimal, clean personal portfolio website for Ziying Li (Lisa), a designer pursuing an HCI master's at UW.
 
 ## Structure
